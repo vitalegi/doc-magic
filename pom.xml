@@ -12,7 +12,7 @@
     <properties>
         <maven.compiler.release>17</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <logback.version>1.5.19</logback.version>
+        <logback.version>1.5.20</logback.version>
         <pdfbox.version>3.0.5</pdfbox.version>
     </properties>
     <dependencies>
